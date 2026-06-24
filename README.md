@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Amanda Bugniski Cordeiro 💻</h1>
 
-<!--
-**amandabugniski/amandabugniski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia de Software em evolução na área de desenvolvimento.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-HTML%20%7C%20CSS%20%7C%20JavaScript-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estudando-Java%20%7C%20Spring%20Boot-ff69b4?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Sobre mim
+
+Sou estudante de **Engenharia de Software** e estou construindo minha base em desenvolvimento por meio de estudos, projetos práticos e organização de código.
+
+Atualmente estou focando em **HTML, CSS, JavaScript, Java, Git e GitHub**, além de fortalecer minha lógica de programação e desenvolvimento web.
+
+Gosto de criar projetos visuais, praticar boas práticas e acompanhar minha evolução através do GitHub.
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Lista de Contatos](https://github.com/amandabugniski/lista-de-contatos) | Lista de contatos com duas versões visuais, incluindo uma versão com pixel art. | HTML, CSS |
+| [Campo Minado](https://github.com/amandabugniski/campo-minado) | Projeto de jogo para praticar lógica de programação. | JavaScript |
+| [Estudos de CSS](https://github.com/amandabugniski/estudo-css) | Repositório com práticas de CSS, layout e Flexbox. | HTML, CSS |
+| [Calculadora Básica](https://github.com/amandabugniski/repositorio-calculadora-basica) | Projeto simples para praticar estrutura de código e lógica. | Java |
+
+---
+
+## 📚 Atualmente estudando
+
+```txt
+HTML • CSS • Flexbox • JavaScript • Java • Git • GitHub

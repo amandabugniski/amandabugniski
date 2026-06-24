@@ -34,18 +34,6 @@ Gosto de criar projetos visuais, praticar boas práticas e acompanhar minha evol
 
 ---
 
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Lista de Contatos](https://github.com/amandabugniski/lista-de-contatos) | Lista de contatos com duas versões visuais, incluindo uma versão com pixel art. | HTML, CSS |
-| [Campo Minado](https://github.com/amandabugniski/campo-minado) | Projeto de jogo para praticar lógica de programação. | JavaScript |
-| [Estudos de CSS](https://github.com/amandabugniski/estudo-css) | Repositório com práticas de CSS, layout e Flexbox. | HTML, CSS |
-| [Calculadora Básica](https://github.com/amandabugniski/repositorio-calculadora-basica) | Projeto simples para praticar estrutura de código e lógica. | Java |
 
 ---
 
-## 📚 Atualmente estudando
-
-```txt
-HTML • CSS • Flexbox • JavaScript • Java • Git • GitHub

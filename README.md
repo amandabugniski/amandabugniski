@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Amanda Bugniski</h1>
+<h2 align="center">Hi there 👋 I'm Amanda Bugniski</h2>
 
 <p align="center">
   Software Engineering student building my path in development, one project and one study session at a time.

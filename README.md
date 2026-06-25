@@ -1,10 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Amanda Bugniski</h2>
 
 <p align="center">
-   Estudante de Engenharia de Software construindo minha trajetória na área de desenvolvimento.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/amanda-bugniski/">
     <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Bugniski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

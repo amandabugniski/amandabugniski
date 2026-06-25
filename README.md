@@ -26,7 +26,7 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 
 ---
 
-💻 Áreas de interesse
+## 💻 Áreas de interesse
 
 <table> <tr> <td align="center"><strong>🌐 Web</strong></td> <td>Desenvolvimento Web</td> </tr> <tr> <td align="center"><strong>☕ Java</strong></td> <td>Back-end, Java e Spring Boot</td> </tr> <tr> <td align="center"><strong>🔗 APIs</strong></td> <td>APIs REST e integração entre sistemas</td> </tr> <tr> <td align="center"><strong>🗄️ Dados</strong></td> <td>Banco de Dados e organização de informações</td> </tr> <tr> <td align="center"><strong>🚀 Full Stack</strong></td> <td>Aplicações completas, do front-end ao back-end</td> </tr> </table>
 

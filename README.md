@@ -26,14 +26,26 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 
 ---
 
-💻 Áreas de interesse
-* Desenvolvimento Web
-* Desenvolvimento Back-end
-* Desenvolvimento Java 
-* Spring Boot
-* APIs REST
-* Banco de Dados
-* Aplicações Full Stack
+## 💻 Interesses em tecnologia
+
+<table>
+  <tr>
+    <td><strong>🌐 Web</strong></td>
+    <td>Interfaces, páginas responsivas e experiências simples de usar.</td>
+  </tr>
+  <tr>
+    <td><strong>☕ Back-end</strong></td>
+    <td>Regras de negócio, APIs, Java e Spring Boot.</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Dados</strong></td>
+    <td>Banco de dados, SQL e organização das informações.</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Full Stack</strong></td>
+    <td>Conectar front-end, back-end e banco de dados em aplicações completas.</td>
+  </tr>
+</table>
 
 ---
 <p align="center"> Thanks for visiting my profile ✨ </p> 

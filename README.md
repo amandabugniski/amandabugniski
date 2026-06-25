@@ -43,7 +43,4 @@ APIs REST
 Banco de Dados
 Aplicações Full Stack
 
-📊 GitHub Stats
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=amandabugniski&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabugniski&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center"> Thanks for visiting my profile ✨ </p> ```
+<p align="center"> Thanks for visiting my profile ✨ </p> 

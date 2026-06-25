@@ -20,7 +20,7 @@
 
 Sou estudante de **Engenharia de Software** e atualmente estou focada em aprender e praticar desenvolvimento de software.
 
-Estou construindo minha base com **Java, JavaScript, HTML, CSS, Git, GitHub e lógica de programação**, enquanto também estudo tecnologias relacionadas a **desenvolvimento back-end, banco de dados, APIs e aplicações full stack**.
+Estou construindo minha base com **Java, JavaScript, HTML, CSS, Git**, enquanto também estudo tecnologias relacionadas a **desenvolvimento back-end, banco de dados, APIs e aplicações full stack**.
 
 Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em projetos práticos.
 
@@ -35,12 +35,12 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 ---
 
 💻 Áreas de interesse
-Desenvolvimento Web
-Desenvolvimento Back-end
-Desenvolvimento Java 
-Spring Boot
-APIs REST
-Banco de Dados
-Aplicações Full Stack
+* Desenvolvimento Web
+* Desenvolvimento Back-end
+* Desenvolvimento Java 
+* Spring Boot
+* APIs REST
+* Banco de Dados
+* Aplicações Full Stack
 
 <p align="center"> Thanks for visiting my profile ✨ </p> 

@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Amanda Bugniski</h2>
 
 <p align="center">
-  Software Engineering student building my path in development, one project and one study session at a time.
+   Estudante de Engenharia de Software construindo minha trajetória na área de desenvolvimento.
 </p>
 
 <p align="center">
@@ -15,38 +15,34 @@
 
 ---
 
-## ✨ About me
+## ✨ Sobre mim
 
-I'm a **Software Engineering student** currently focused on learning and practicing software development.
+Sou estudante de **Engenharia de Software** e atualmente estou focada em aprender e praticar desenvolvimento de software.
 
-I'm building my foundation with **Java, JavaScript, HTML, CSS, Git, GitHub and programming logic**, while also studying technologies related to **back-end development, databases, APIs and full stack applications**.
+Estou construindo minha base com **Java, JavaScript, HTML, CSS, Git, GitHub e lógica de programação**, enquanto também estudo tecnologias relacionadas a **desenvolvimento back-end, banco de dados, APIs e aplicações full stack**.
 
-I like learning by creating, improving little by little and turning studies into practical projects.
+Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em projetos práticos.
 
 ---
 
-## 🛠️ Languages and Technologies
+## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,mysql,git" />
 </p>
 
 ---
 
-💻 Areas I'm interested in
-Web Development
-Back-end Development
-Java Development
+💻 Áreas de interesse
+Desenvolvimento Web
+Desenvolvimento Back-end
+Desenvolvimento Java 
 Spring Boot
-REST APIs
-Databases
-Full Stack Applications
-Clean and organized code
+APIs REST
+Banco de Dados
+Aplicações Full Stack
 
 📊 GitHub Stats
 <p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=amandabugniski&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabugniski&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-🌱 A little more about my journey
-I’m in constant evolution, studying technology and building my path as a developer.
 
 <p align="center"> Thanks for visiting my profile ✨ </p> ```

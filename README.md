@@ -26,13 +26,4 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 
 ---
 
-💻 Áreas de interesse
-* Desenvolvimento Web
-* Desenvolvimento Back-end
-* Desenvolvimento Java 
-* Spring Boot
-* APIs REST
-* Banco de Dados
-* Aplicações Full Stack
-
 <p align="center"> Thanks for visiting my profile ✨ </p> 

@@ -25,10 +25,4 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 </p>
 
 ---
-
-## 💻 Áreas de interesse
-
-<table> <tr> <td align="center"><strong>🌐 Web</strong></td> <td>Interfaces, páginas responsivas e experiências simples de usar</td> </tr> <tr> <td align="center"><strong>☕ Java</strong></td> <td>Clean code, Spring boot e orientação a objetos bem feita</td> </tr> <tr> <td align="center"><strong>🔗 APIs</strong></td> <td>APIs REST e integração entre sistemas</td> </tr> <tr> <td align="center"><strong>🗄️ Dados</strong></td> <td>Banco de Dados e organização de informações</td> </tr> <tr> <td align="center"><strong>🚀 Full Stack</strong></td> <td>Aplicações completas do front-end ao back-end</td> </tr> </table>
-
----
 <p align="center"> Thanks for visiting my profile ✨ </p> 

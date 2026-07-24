@@ -53,4 +53,4 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 
 ---
 
-<p align="center"> Thanks for visiting my profile ✨ </p> 
+<p align="center"> Obrigada pela visita ao meu perfil ✨✨ </p> 

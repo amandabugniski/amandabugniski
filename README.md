@@ -6,6 +6,17 @@
   </a>
 </p>
 
+
+<p align="center">
+  Desenvolvedora de Software Jr • Java • Spring Boot • Desenvolvimento Web
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanda-bugniski">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 ---
 
 ## ✨ Sobre mim

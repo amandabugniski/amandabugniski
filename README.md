@@ -43,4 +43,10 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
+
+## Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/amanda-bugniski).
+
+---
 <p align="center"> Thanks for visiting my profile ✨ </p> 

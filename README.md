@@ -8,7 +8,7 @@
   >
 </p>
 
-<p align="center">
+<p align="">
   Desenvolvedora de Software Jr • Java • Spring Boot • Desenvolvimento Web
 </p>
 

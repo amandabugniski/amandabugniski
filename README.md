@@ -1,4 +1,4 @@
-<h2 align="center">Amanda Bugniski 👩🏻‍💻</h2>
+<h2 align="center">Amanda Bugniski 💻</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanda-bugniski/">

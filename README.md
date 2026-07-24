@@ -3,7 +3,7 @@
 <p align="left">
   <img
     src="./assets/pixel-art.png"
-    width="170"
+    width="150"
     alt="gatinho pixel art"
   >
 </p>

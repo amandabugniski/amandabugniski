@@ -1,4 +1,4 @@
-<table>
+
   <tr>
     <td width="72%" valign="middle">
 
@@ -24,7 +24,6 @@ Sou estudante de Engenharia de Software e atuo no desenvolvimento e manutenção
     >
   </td>
   </tr>
-</table>
 
 ---
 

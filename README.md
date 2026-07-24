@@ -7,7 +7,6 @@
     alt="gatinho pixel art"
   >
 </p>
-
 <p align="center">
   Desenvolvedora de Software Jr • Java • Spring Boot • Desenvolvimento Web
 </p>

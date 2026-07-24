@@ -15,11 +15,11 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de Engenharia de Software e atualmente estou focada em aprender e praticar desenvolvimento de software.
+Sou Desenvolvedora de Software Júnior e estudante de Engenharia de Software. Gosto muito da área de tecnologia e de entender como as aplicações funcionam, desde a construção das interfaces e servidor, até as regras de negócio.
 
-Estou construindo minha base com **Java, JavaScript, HTML, CSS, Git**, enquanto também estudo tecnologias relacionadas a **desenvolvimento back-end com Spring Boot, banco de dados, APIs e aplicações full stack**.
+Atuo no desenvolvimento e manutenção de software e, ao mesmo tempo, continuo evoluindo meus conhecimentos em Java, Spring Boot, JavaScript, HTML, CSS, APIs REST e banco de dados.
 
-Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em projetos práticos.
+Gosto de aprender colocando a mão no código, evoluindo aos poucos e transformando ideias e estudos em projetos práticos. 
 
 ---
 

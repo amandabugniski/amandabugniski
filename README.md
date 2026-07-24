@@ -49,7 +49,6 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
     width="150"
     alt="gatinho pixel art"
   >
-  
 ---
-
+  
 <p align="center"> Obrigada pela visita ao meu perfil ✨✨ </p> 

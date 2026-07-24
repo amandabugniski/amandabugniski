@@ -1,33 +1,50 @@
-  <h1>Amanda Bugniski 💻</h1>
+<table>
+  <tr>
+    <td width="72%" valign="middle">
 
-<p align="center">
-  Desenvolvedora de Software Jr • Java • Spring Boot • Desenvolvimento Web
-</p>
+# Amanda Bugniski 👩🏻‍💻
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanda-bugniski">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+### Desenvolvedora de Software Júnior
+
+Java • Spring Boot • JavaScript • Desenvolvimento Web
+
+Sou estudante de Engenharia de Software e atuo no desenvolvimento e manutenção de aplicações, buscando criar soluções organizadas, funcionais e fáceis de utilizar.
+
+<a href="https://www.linkedin.com/in/amanda-bugniski">
+  <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Bugniski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+  </td>
+
+  <td width="28%" align="center">
+    <img
+      src="assets/pixel-art-dev.png"
+      width="170"
+      alt="Pixel art de desenvolvimento de software"
+    >
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## ✨ Sobre mim
 
-Sou estudante de Engenharia de Software e atualmente estou focada em aprender e praticar desenvolvimento de software.
+Sou **Desenvolvedora de Software Júnior** e estudante de **Engenharia de Software**.
 
-Estou construindo minha base com **Java, JavaScript, HTML, CSS, Git**, enquanto também estudo tecnologias relacionadas a **desenvolvimento back-end com Spring Boot, banco de dados, APIs e aplicações full stack**.
+Atuo no desenvolvimento e manutenção de aplicações, utilizando principalmente **Java, Spring Boot e tecnologias web**. Tenho interesse em back-end, APIs REST, banco de dados e desenvolvimento full stack.
 
-Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em projetos práticos.
+Gosto de transformar necessidades e ideias em projetos práticos, buscando escrever códigos organizados e criar experiências simples para quem utiliza a aplicação.
 
 ---
-## 🛠️ Linguagens e Tecnologias
+
+## 🛠️ Linguagens e tecnologias
 
 ### Back-end
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
 
 ### Front-end
 

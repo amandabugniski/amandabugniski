@@ -1,4 +1,4 @@
-<h1>Amanda Bugniski 💻</h1>
+<h1 align="center">Amanda Bugniski 💻</h1>
 
 <p align="left">
   <img

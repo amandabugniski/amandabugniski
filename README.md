@@ -46,7 +46,7 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 <p align="right">
   <img
     src="./assets/pixel-art.png"
-    width="170"
+    width="230"
     alt="Pixel art de desenvolvimento com Java"
   >
 </p>

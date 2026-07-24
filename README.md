@@ -1,4 +1,4 @@
-<h1>Amanda Bugniski 💻</h1>
+<h1 align="center">Amanda Bugniski 💻</h1>
 
 </p>
 <p align="center">
@@ -44,7 +44,7 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<p align="left">
+<p align="center">
   <img
     src="./assets/pixel-art.png"
     width="130"

@@ -1,7 +1,7 @@
 <h1>Amanda Bugniski 💻</h1>
 
 <img
-  src="./assets/java-pixel-art.png"
+  src="./assets/pixel-art.png"
   width="230"
   alt="Pixel art com elementos de Java e desenvolvimento de software"
 />

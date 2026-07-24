@@ -1,5 +1,11 @@
 <h1>Amanda Bugniski 💻</h1>
 
+<img
+  src="./assets/java-pixel-art.png"
+  width="230"
+  alt="Pixel art com elementos de Java e desenvolvimento de software"
+/>
+
 <p align="center">
   Desenvolvedora de Software Jr • Java • Spring Boot • Desenvolvimento Web
 </p>

@@ -47,7 +47,7 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 <p align="center">
   <img
     src="./assets/pixel-art.png"
-    width="130"
+    width="150"
     alt="gatinho pixel art"
   >
 

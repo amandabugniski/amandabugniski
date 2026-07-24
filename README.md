@@ -42,7 +42,6 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <p align="center">
   <img
@@ -50,7 +49,6 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
     width="150"
     alt="gatinho pixel art"
   >
-
 ---
 
 <p align="center"> Obrigada pela visita ao meu perfil ✨✨ </p> 

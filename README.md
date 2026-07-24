@@ -21,7 +21,7 @@ Estou construindo minha base com **Java, JavaScript, HTML, CSS, Git**, enquanto 
 Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em projetos práticos.
 
 ---
-## Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 ### Back-end
 
@@ -41,14 +41,6 @@ Gosto de aprender criando, evoluindo aos poucos e transformando meus estudos em 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🛠️ Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,mysql,git" />
-</p>
 
 ---
 <p align="center"> Thanks for visiting my profile ✨ </p> 

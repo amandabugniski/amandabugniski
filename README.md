@@ -16,6 +16,7 @@
 ## ✨ Sobre mim
 
 Sou Desenvolvedora de Software Júnior e estudante de Engenharia de Software. Gosto muito da área de tecnologia e de entender como as aplicações funcionam, desde a construção das interfaces e servidor, até as regras de negócio.
+
 Atuo no desenvolvimento e manutenção de software e, ao mesmo tempo, continuo evoluindo meus conhecimentos em Java, Spring Boot, JavaScript, HTML, CSS, APIs REST e banco de dados.
 
 Gosto de aprender colocando a mão no código, evoluindo aos poucos e transformando ideias e estudos em projetos práticos. 
@@ -43,4 +44,4 @@ Gosto de aprender colocando a mão no código, evoluindo aos poucos e transforma
   
 ---
   
-<p align="center"> Obrigada pela visita ao meu perfil ✨✨ </p> 
+<p align="center"> ✨ Obrigada pela visita ao meu perfil ✨ </p> 
